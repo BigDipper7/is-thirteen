@@ -44,7 +44,7 @@ function is(x) {
         "dertiendertien", // Double Dutch
         "tretze", // Catalan
         "十三", // Chinese (Simplified)
-        "拾叁", // Chinese (Traditional)
+        "拾叁", // Chinese (Traditional, Also be known as 'amount in words')
         "trinaest", // Croatian
         "tretten", // Danish / Norwegian
         "kolmteist", // Estonian
